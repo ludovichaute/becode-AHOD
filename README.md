@@ -8,7 +8,7 @@
 
 ## Les critères: (quoi)
 
-![](https://www.one-page-website.co.uk/)
+![](https://www.one-page-website.co.uk/assets/img/one-page-website-logo-alt.svg)
 
 Durant cette phase, le respect de la deadline est primordial et non négociable.
 
