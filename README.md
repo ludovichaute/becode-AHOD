@@ -20,4 +20,11 @@ Terminé ? Publie le résultat sur ce formulaire avant la fin de la deadline.
 
 ## Qui fais quoi ?
 
-- 
+- ludo 
+  [ ] git 
+  [ ] rediger le readme
+- Dirian 
+  [ ] Trame html
+- Liam
+  [ ] Desgin
+  
