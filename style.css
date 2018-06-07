@@ -23,3 +23,51 @@ article,aside,details,figcaption,figure,
 footer,header,hgroup,menu,nav,section { 
     display:block;
 }
+
+
+
+
+
+header {
+	background : blue;
+	height : 100vh;
+	margin : 0;
+}
+
+.logo	{
+	padding : 10px;
+	margin : 0;
+	background : blue;
+}
+
+
+.tempo {
+	position : block;
+	width : 20vw;
+	height : 10vh;
+	background : red;
+}
+
+.home--content {
+	text-align : center;
+	padding-top : 30vh;
+	font-size : 1.8rem;
+}
+
+.home--content p {
+	margin-top : 10vh;
+	font-size : 1.5rem;
+}
+
+.home--content button {
+	margin-top : 10vh;
+	background : none;
+	border : none;
+	transform : scale(2);
+
+}
+
+.who {
+	height : 100vh;
+	background : black;
+}
