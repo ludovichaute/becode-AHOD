@@ -211,7 +211,64 @@ header:before {
 .helpus {
 	background : #CACBD5;
 	height : 50vh;
+	display : grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap : 10px;
+	text-align: center;
 }
+
+.helpus--1 {
+	margin-top: 20%;
+}
+.helpus--1 button {
+	font-size : 1.5rem;
+	border: none;
+	font-family: inherit;
+	font-size: inherit;
+	color: inherit;
+	background: none;
+	cursor: pointer;
+	padding: 25px 80px;
+	display: inline-block;
+	margin: 15px 30px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700;
+	outline: none;
+	position: relative;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+} 
+
+.helpus--2 {
+	margin-top: 20%;
+	
+}
+
+.helpus--2 button {
+	font-size : 1.5rem;
+	border: none;
+	font-family: inherit;
+	font-size: inherit;
+	color: inherit;
+	background: none;
+	cursor: pointer;
+	padding: 25px 80px;
+	display: inline-block;
+	margin: 15px 30px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700;
+	outline: none;
+	position: relative;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+} 
+
+
+
 
 footer,header,hgroup,menu,nav,section {
     display:block;
